@@ -1,0 +1,39 @@
+LAR 2 
+
+family tree(pu ba llb)
+A is male - A square
+A is female - A circle
+A gender is unknow - A
+A is married to B - A=B
+A and B are siblings - A<->B
+A is child of - B d
+own arrow A
+
+arrangements
+linear arrangements
+vertical building and horizontal row
+circular arrangement
+facing towa  rds center and not facing center
+99%facing towards center   
+
+complex arrangements 
+more information given
+
+n-1 in tournament type questions
+         
+input output
+without numbers or lopps 
+0 - 4 - 8
+1 - 5 - 9
+2 - 6 - 10
+3 - 7 - 11
+ab cd
+dc ba
+ba dc
+ab cd
+
+sequence and series (pu ba llb)
+numerical series 
+alphabet series - a=1 , b=2
+alpha numric series
+powers above nymber like 2square if hard 

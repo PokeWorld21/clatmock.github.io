@@ -1,0 +1,46 @@
+ LAR 1
+
+coding decoding
+same code given you need to crack it 
+then another question is given apply the code in that question
+example-poke is coded as ekop
+
++1 code
+ASHISH = BTIJTI
+
+A Z 1  26
+B Y 2  25
+C X 3  24
+D W 4  23
+E V 5  22
+F U
+G T
+H S
+I R
+J Q
+K P
+L O
+M N 
+
+ASHISH = IULLXG
+RERVESE= +1 +2 +3
+
+translation in coding
+hi this guy is ashish - yo yai ik no put
+ashish is from india - ik put ki ten
+ashish mad - put pin
+
+Directions(Pu ba llb)
+north up
+west left
+east right
+south down
+directions are universal
+left/right - point of a person
+
+clockwisem = +
+anticlockwise = _
+
+sun and shadow
+
+ 

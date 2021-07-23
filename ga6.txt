@@ -1,0 +1,157 @@
+General science 1
+
+physics
+units
+lenght - metres (m)
+mass - kilgoram (kg)
+time - seconf (s)
+electric current - ampere (A)
+temperature - kelvin (K)
+amount of subtstance - mole (mol)
+luminous intensity - candela (cd)
+velocity - m/s
+acceleration - m/s2
+power - joules (watt)
+1% chance in clat
+
+
+motion
+scaler quantity 
+no direction
+mass speed
+
+vector quantity
+direction
+force spped
+
+distance 
+total path coverd  in certain time
+its unit is metre
+shortedt distance is displacement
+displacement is equal or shorter than distance
+
+speed 
+distance upon time
+
+velocity
+displacemnt upon time
+
+accleration
+change in velocity upon time
+rate of change of velocity of object
+
+gravity m/s 2
+
+circular motion
+centrpedal force 
+cntre seeking force
+
+centrifuegal force 
+outward force 
+
+newtons law of motion
+
+1st law of motion
+body is at rest unless external force is applied
+
+2nd law of motion
+force applied on body is equaly to object in which force is applied
+
+3rd law of motion
+every action has equal and opposite reaction
+
+work 
+body gets displaced work is done
+w = f.s
+unit is joule
+
+energy
+capacity of doing work
+joule 
+
+kinetic energy 
+energy due to motion
+
+potenial energy
+energy possed by object virtue of its position
+pe = mgh
+
+power
+rate of doing work
+work upon tome
+waatt afte james watt
+
+gravitation
+force of attraction coming from earth 
+
+gravity
+value 9.8 m/s2
+
+escape velocity
+needed to beat earths harvity field
+earths surface 11.2 km/s
+moon surface 2.38 km/s
+
+keplers lwar
+all planet move around sun in ellipicataloribits
+sun is constannt
+
+pressure
+si unit pascal
+formila f/a
+
+law of floatation
+depends upon density
+density of object is less than density of water
+principle of floatation by archimedes
+
+buoyancy
+upward force exerted by a fluid on a immerseed body
+
+archimedes principle
+when solid body is immeresed partialy pr whole there is same apparent loss in wieght
+
+wave
+transport of energy 
+
+mechincal waves
+requires material to transport energy
+
+electromagnetic waves
+do not require any medium like wifi 
+
+dopplers effect
+sound is heard by observer differnt frequency or time 
+
+heat
+form of enrgy which oroduces sensation warmth
+
+transmission of heat
+conduction
+heat is transferred without any medium
+
+convection
+liquid to gas heat
+
+radiation
+quickest way of transmission
+
+light
+speed 3x108 m/s
+
+refraction
+whrn ray of light bend towards normal
+
+
+scientic instruments
+ammeter - electric current
+anemometer - velocity of wind
+barometer - atmospheric pressure
+calorimeter - quantities of heat
+endoscope - internal parts of body
+galvanometer - electric current
+hydrometer - relative density of liquids
+hygrometer - measures level of humidity
+lactometer - density of milk
+machmeter - speed of aircraft
+tonometer - pitch of sound
